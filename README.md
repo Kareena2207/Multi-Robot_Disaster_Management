@@ -1,12 +1,14 @@
 # Multi-Robot Disaster Response with Voronoi Coverage (MAE 598 Final Project)
 
-Authors: **Milan Tiwari, Kareena Salim Lakhani**  
+Authors: **Kareena Salim Lakhani, Milan Tiwari**  
 ---
 
 ## Overview
 
 This repository contains the code and report for our 
-**multi-robot disaster response using Voronoi-based coverage control**.
+**multi-robot disaster response using Voronoi-based coverage control** submitted for the class **Multi-Robot Systems** at **Arizona State University**.
+
+We designed a distributed multi-robot control framework based on Voronoi coverage principles. Starting from classical centroid-based coverage control, we extended the model to include dynamic demand fields, finite robot supply capacities, greedy task allocation within Voronoi cells, and collision avoidance through repulsive safety controllers. The system combined continuous coverage objectives with hybrid task-switching behavior to realistically model relief delivery from a single base to multiple hotspots.
 
 A team of ground robots must leave a single base, travel through a
 disaster-affected field, and deliver relief supplies to several spatially
