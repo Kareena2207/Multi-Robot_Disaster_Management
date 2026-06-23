@@ -25,6 +25,12 @@ distributed demand hotspots. The controller combines:
 
 All simulations are implemented in **MATLAB**.
 
+## Demo Preview
+
+[![ReLIEF-VOR simulation preview](im_gif.gif)](https://github.com/Kareena2207/Multi-Robot_Disaster_Management/blob/main/simulation%3A/Simulation.mov)
+
+The README preview above shows the live disaster-response simulation directly on the main project page. Click the animation to open the full recorded simulation video.
+
 The repository reproduces:
 
 - The **main simulation video / snapshot** with three hotspots (H1–H3),
